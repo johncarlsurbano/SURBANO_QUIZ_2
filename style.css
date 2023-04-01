@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    background-color: aquamarine;
+    width: 30%;
+    margin: auto;
+
+}
+.resultBox{
+    border: 1px solid black;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    background-color: aquamarine;
+    margin: auto;
+}
+#operator{
+    padding: 5px;
+}
+#firstNum{
+    padding: 5px;
+}
+#secondNum{
+    padding: 5px;
+}
+#resultInput{
+    padding: 7px;
+}
+#submitBtn{
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+#submitBtn:hover{
+    background-color: green;
+    color: black;
+}
+#clearBtn{
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-left: 10px;
+}
+#clearBtn:hover{
+    background-color: green;
+    color: black;
+}
